@@ -12,4 +12,6 @@ reduced features are trained by SVM and RF. The PCA + SVM and PCA + RF methods a
 - Feature extraction
 - Classification Algorithms Comparision
 - Spatial Resolution Analysis
-  
+
+## Analysis
+- Hyperspectral image classification using Support Vector Machine (SVM) and Random Forest (RF) with and without PCA clearly demonstrated [here](https://github.com/pavankz/Hyperspectral-Image-Classification/blob/main/PCA.ipynb).
