@@ -14,4 +14,7 @@ reduced features are trained by SVM and RF. The PCA + SVM and PCA + RF methods a
 - Spatial Resolution Analysis
 
 ## Analysis
-- Hyperspectral image classification using Support Vector Machine (SVM) and Random Forest (RF) with and without PCA clearly demonstrated [here](https://github.com/pavankz/Hyperspectral-Image-Classification/blob/main/PCA.ipynb).
+- Hyperspectral image classification using Support Vector Machine (SVM) and Random Forest (RF) with and without PCA clearly demonstrated  [here](https://github.com/pavankz/Hyperspectral-Image-Classification/blob/main/PCA.ipynb) using Indian Pines dataset.
+-Training a Deep Neural Network for Wetland Vegetation Classification using Kennedy Space centre dataset with PyTorch. Detailed demonstration of neural network architecture and results of different activation functions are [here](https://github.com/pavankz/Hyperspectral-Image-Classification/blob/main/Pytorch_1DNN.ipynb)
+
+- Dataset can be downloaded from [here](https://www.ehu.eus/ccwintco/index.php?title=Hyperspectral_Remote_Sensing_Scenes#Indian_Pines)
